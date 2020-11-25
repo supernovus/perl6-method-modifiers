@@ -1,7 +1,7 @@
 {
   "perl"        : "6.*",
   "name"        : "Method::Modifiers",
-  "version"     : "*",
+  "version"     : "0.1.0",
   "description" : "Adds before, after and around functions to make wrapping method calls easier.",
   "provides"    : {
     "Method::Modifiers"          : "lib/Method/Modifiers.pm6",
